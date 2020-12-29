@@ -1,1 +1,11 @@
 Added from github...
+
+git init : for initializing a repository
+git add .
+git commit -m "Details..."
+git status
+git branch branch_name : for creating a new branch
+git checkout branch_name
+git merge branch_name
+git push
+git pull
